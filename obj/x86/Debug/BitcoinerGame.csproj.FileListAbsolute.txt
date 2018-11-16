@@ -1,0 +1,7 @@
+C:\Users\pc acer\Desktop\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\pc acer\Desktop\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\pc acer\Desktop\FirstApp\FirstApp\obj\x86\Debug\FirstApp.Bitcoiner.resources
+C:\Users\pc acer\Desktop\FirstApp\FirstApp\obj\x86\Debug\FirstApp.Properties.Resources.resources
+C:\Users\pc acer\Desktop\FirstApp\FirstApp\obj\x86\Debug\BitcoinerGame.csproj.GenerateResource.Cache
+C:\Users\pc acer\Desktop\FirstApp\FirstApp\obj\x86\Debug\FirstApp.exe
+C:\Users\pc acer\Desktop\FirstApp\FirstApp\obj\x86\Debug\FirstApp.pdb

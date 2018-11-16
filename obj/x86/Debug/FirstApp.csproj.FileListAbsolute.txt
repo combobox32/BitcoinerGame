@@ -1,0 +1,16 @@
+C:\Bojana Komljenovic 1037_2016\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+C:\Bojana Komljenovic 1037_2016\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+C:\Bojana Komljenovic 1037_2016\FirstApp\FirstApp\obj\x86\Debug\FirstApp.Properties.Resources.resources
+C:\Bojana Komljenovic 1037_2016\FirstApp\FirstApp\obj\x86\Debug\FirstApp.csproj.GenerateResource.Cache
+C:\Bojana Komljenovic 1037_2016\FirstApp\FirstApp\obj\x86\Debug\FirstApp.exe
+C:\Bojana Komljenovic 1037_2016\FirstApp\FirstApp\obj\x86\Debug\FirstApp.pdb
+C:\Bojana Komljenovic 1037_2016\FirstApp\FirstApp\obj\x86\Debug\FirstApp.Krtolovac.resources
+C:\Bojana Komljenovic 1037_2016\FirstApp\FirstApp\obj\x86\Debug\FirstApp.csprojResolveAssemblyReference.cache
+C:\Users\pc acer\Desktop\FirstApp\FirstApp\obj\x86\Debug\FirstApp.exe
+C:\Users\pc acer\Desktop\FirstApp\FirstApp\obj\x86\Debug\FirstApp.pdb
+C:\Users\pc acer\Desktop\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\pc acer\Desktop\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\pc acer\Desktop\FirstApp\FirstApp\obj\x86\Debug\FirstApp.csprojResolveAssemblyReference.cache
+C:\Users\pc acer\Desktop\FirstApp\FirstApp\obj\x86\Debug\FirstApp.Properties.Resources.resources
+C:\Users\pc acer\Desktop\FirstApp\FirstApp\obj\x86\Debug\FirstApp.csproj.GenerateResource.Cache
+C:\Users\pc acer\Desktop\FirstApp\FirstApp\obj\x86\Debug\FirstApp.Bitcoiner.resources
